@@ -13,6 +13,16 @@ The goal of this project is to create an engine capable of automatically predict
 
 **Repo structure** : 
 
+    config 
+    data 
+    deploy
+    game_topics 
+    model
+    model_checkpoints
+    notebooks
+    server
+    tests
+
 **Data Source** : 
 
 **Actual vs Coming soon** : 
