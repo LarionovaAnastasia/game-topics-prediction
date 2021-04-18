@@ -1,5 +1,9 @@
 # game-topics-prediction
 
+![life run](https://github.com/LarionovaAnastasia/game-topics-prediction/blob/main/assets/life_run.gif)
+
+
+
 Key words : NLP, Python, Scikit Learn, Keras, Fast Api, Javascript 
 
 
