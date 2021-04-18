@@ -1,6 +1,6 @@
 # game-topics-prediction
 
-![life run](https://github.com/LarionovaAnastasia/game-topics-prediction/blob/main/assets/life_run.gif)
+<img src="https://github.com/LarionovaAnastasia/game-topics-prediction/blob/main/assets/life_run.gif" width="80" height="40" />
 
 
 
