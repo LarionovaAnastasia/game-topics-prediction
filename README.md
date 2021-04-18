@@ -32,6 +32,3 @@ The goal of this project is to create a game topic prediction application.
     tests
 
 **Data Source** : 
-
-**Actual vs Coming soon** : 
-
