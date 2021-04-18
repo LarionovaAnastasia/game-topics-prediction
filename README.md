@@ -15,5 +15,5 @@ The goal of this project is to create an engine capable of automatically predict
 
 **Data Source** : 
 
-**Actual vs Coming soon* : 
+**Actual vs Coming soon** : 
 
