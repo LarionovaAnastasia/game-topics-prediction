@@ -11,7 +11,7 @@ This is a personal data science project launched to try out :
  
 The goal of this project is to create an engine capable of automatically predicting the game topic based on its description, accessible via a web extension. 
 
-<img src="https://github.com/LarionovaAnastasia/game-topics-prediction/blob/main/assets/life_run.gif" width="800" height="450" />
+<img src="https://github.com/LarionovaAnastasia/game-topics-prediction/blob/main/assets/life_run.gif" width="750" height="420" />
 
 
 **Repo structure** : 
