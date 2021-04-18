@@ -1,6 +1,6 @@
 # game-topics-prediction
 
-<img src="https://github.com/LarionovaAnastasia/game-topics-prediction/blob/main/assets/life_run.gif" width="800" height="500" />
+<img src="https://github.com/LarionovaAnastasia/game-topics-prediction/blob/main/assets/life_run.gif" width="800" height="450" />
 
 
 
