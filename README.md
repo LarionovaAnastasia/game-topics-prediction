@@ -21,14 +21,30 @@ The goal of this project is to create a game topic prediction application.
 
 **Repo structure** : 
 
-    config 
-    data 
-    deploy
-    game_topics 
-    model
-    model_checkpoints
-    notebooks
-    server
-    tests
+├── assets                          <- Media files.
+│
+├── config                          <- Configuration files.
+│
+├── data  
+│   ├── processed                   <- Intermidiate, transformed data. 
+│   ├── raw                         <- The original data
+│   └── splitted                    <- The final data sets for modeling. 
+│
+├── deploy                          <- Scripts for Web extension and Docker deployement                  
+│
+├── game_topics                     <- Source code for use in this project. 
+│   ├── models                      <- Scripts to define models. 
+│   ├── utils                       <- Scripts with basic utilities used in other scripts. 
+│   ├── normalize_and_clean.py      <- Script to normalize and clean the data. 
+│   └── train_model.py              <- Script to train the model.   
+│
+├── model_checkpoints               <- Trained and serialized models, fitted tokenizers and vectorizers. 
+│
+├── notebooks                       <- Jupyter notebooks containing Exploratory Data Analysis and Error Analysis. 
+│
+├── server                          <- Scripts to define the API. 
+│
+└── tests                           <- Testing scripts.
+
 
 **Data Source** : 
