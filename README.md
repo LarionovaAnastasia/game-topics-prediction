@@ -19,7 +19,7 @@ The goal of this project is to create a game topic prediction application.
 7. Deploying the application and connecting a continuous integration solution **(coming soon)**
 
 
-**Repo structure** : 
+# Repo structure
 
     ├── assets                          <- Media files.
     │
@@ -47,10 +47,20 @@ The goal of this project is to create a game topic prediction application.
     └── tests                           <- Testing scripts.
 
 
-**Data Source** : 
+# Data Source 
 
 The data used in this project is publicly available on Kaggle : https://www.kaggle.com/nikdavis/steam-store-games
 
 The original dataset contains 6 files. Only two are used in this project : 
 - steam.csv
 - steam_description_data.csv
+
+# Features
+
+- **Logistic regression** powered by Scikit-Learn
+- **CNN model** power by Keras (with Tensorflow background)
+- **Exploratory data analysis** using Pandas
+- **Data cleaning and normalizing** powered by NLTK and Regex
+- **Functionality tests** powered by Unittest
+- **Server** via FastAPI and Uvicorn.
+- **Chrome extension** for interacting with a model in the browser.
