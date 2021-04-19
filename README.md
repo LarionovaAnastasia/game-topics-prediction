@@ -57,7 +57,7 @@ The original dataset contains 6 files. Only two are used in this project :
 
 # Features
 
-- **Logistic regression** powered by Scikit-Learn
+- **Logistic regression** powered by [Scikit Lean](https://scikit-learn.org/stable/) 
 - **CNN model** power by Keras (with Tensorflow background)
 - **Exploratory data analysis** using Pandas
 - **Data cleaning and normalizing** powered by NLTK and Regex
