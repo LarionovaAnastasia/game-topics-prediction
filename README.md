@@ -48,3 +48,9 @@ The goal of this project is to create a game topic prediction application.
 
 
 **Data Source** : 
+
+The data used in this project is publicly available on Kaggle : https://www.kaggle.com/nikdavis/steam-store-games
+
+The original dataset contains 6 files. Only two are used in this project : 
+- steam.csv
+- steam_description_data.csv
