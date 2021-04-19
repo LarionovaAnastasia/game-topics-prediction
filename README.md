@@ -58,9 +58,9 @@ The original dataset contains 6 files. Only two are used in this project :
 # Features
 
 - **Logistic regression** powered by [Scikit Lean](https://scikit-learn.org/stable/) 
-- **CNN model** power by Keras (with Tensorflow background)
-- **Exploratory data analysis** using Pandas
-- **Data cleaning and normalizing** powered by NLTK and Regex
-- **Functionality tests** powered by Unittest
-- **Server** via FastAPI and Uvicorn.
+- **CNN model** power by [Keras](https://keras.io/) (with Tensorflow background)
+- **Exploratory data analysis** using [Pandas](https://pandas.pydata.org/)
+- **Data cleaning and normalizing** powered by [NLTK](https://www.nltk.org/) and [Regex](https://docs.python.org/3/library/re.html)
+- **Functionality tests** powered by [Unittest](https://docs.python.org/3/library/unittest.html)
+- **Server** via [FastAPI](https://fastapi.tiangolo.com/) and [Uvicorn](https://www.uvicorn.org/).
 - **Chrome extension** for interacting with a model in the browser.
